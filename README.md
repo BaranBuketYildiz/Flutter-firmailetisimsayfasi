@@ -21,7 +21,6 @@ Bu Flutter uygulaması, bir firmanın iletişim bilgilerini ve sloganını içer
    ```bash
    cd flutter-firmailetisimsayfasi
    
-   
 3. Gerekli bağımlılıkları yükleyin:
 
    ```bash
