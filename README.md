@@ -19,7 +19,7 @@ Bu Flutter uygulaması, bir firmanın iletişim bilgilerini ve sloganını içer
 2. Proje dizinine gidin:
 
    ```bash
-  cd flutter-firmailetisimsayfasi
+   cd flutter-firmailetisimsayfasi
    
    
 3. Gerekli bağımlılıkları yükleyin:
