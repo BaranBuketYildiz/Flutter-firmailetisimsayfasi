@@ -37,4 +37,4 @@ Bu Flutter uygulaması, bir firmanın iletişim bilgilerini ve sloganını içer
 - [Flutter](https://flutter.dev/) - Flutter hakkında daha fazla bilgi edinin.
 - [Dart](https://dart.dev/) - Dart programlama dili hakkında daha fazla bilgi edinin.
 
-    
+Umarım bu README.md dosyası sizin için yeterli olmuştur. Herhangi bir sorunuz varsa lütfen bana bildirin. İyi çalışmalar!
